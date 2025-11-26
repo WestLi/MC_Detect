@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,cdn.apple-mapkit.com
+  - DOMAIN-SUFFIX,maps.apple.com
+  - DOMAIN,gspe21-ssl.ls.apple.com
+  - DOMAIN,gspe35-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,smoot.apple.com
+  - DOMAIN-SUFFIX,weather-data.apple.com
+  - DOMAIN-SUFFIX,weather-edge.apple.com
+  - IP-CIDR,17.0.0.0/8,no-resolve
