@@ -1,0 +1,9 @@
+HOST-SUFFIX,apple-mapkit.com,Apple
+HOST-SUFFIX,cdn.apple-mapkit.com,Apple
+HOST-SUFFIX,maps.apple.com,Apple
+HOST,gspe21-ssl.ls.apple.com,Apple
+HOST,gspe35-ssl.ls.apple.com,Apple
+HOST-SUFFIX,smoot.apple.com,Apple
+HOST-SUFFIX,weather-data.apple.com,Apple
+HOST-SUFFIX,weather-edge.apple.com,Apple
+IP-CIDR,17.0.0.0/8,Apple
