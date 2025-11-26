@@ -1,5 +1,5 @@
 HOST-SUFFIX,apple-mapkit.com,Apple
-HOST-SUFFIX,cdn.apple-mapkit.com,Apple
+HOST,cdn.apple-mapkit.com,Apple
 HOST-SUFFIX,maps.apple.com,Apple
 HOST,gspe21-ssl.ls.apple.com,Apple
 HOST,gspe35-ssl.ls.apple.com,Apple
