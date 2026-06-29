@@ -1,0 +1,14 @@
+proxy-providers:
+  gcp_node_provider:
+    type: http
+    url: "https://suo.st/yckCHCq"
+    interval: 3600
+    path: ./experiment.yaml
+    filter: "li-experiment-20260627"
+    dialer-proxy: "🚪 亚太专线中转前置组" 
+    
+proxy-groups:
+  - name: "⚡ 链式亚太中转美国GCP"
+    type: select
+    use:
+      - gcp_node_provider
